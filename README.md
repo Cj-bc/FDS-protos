@@ -67,5 +67,6 @@ Those are on the same order.
 
 # note
 
+- Big endian
 - As Python\s `float` is double, `64bit(8byte).
 - While the same major version, I plan to add data just after the last expression.
