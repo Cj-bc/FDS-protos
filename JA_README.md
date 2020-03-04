@@ -1,3 +1,7 @@
+[English.md](README.md)
+
+---
+
 # Face-Data-Server プロトコル仕様書
 
 このレポジトリはFace-Data-Server(FDS)で使用される様々な定義を保管しています。

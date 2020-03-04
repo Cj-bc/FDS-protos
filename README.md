@@ -1,3 +1,7 @@
+[日本語.md](JA_README.md)
+
+---
+
 # Face-Data-Server Protocol Definition
 
 This repository stores Protocol definition for Face-Data-Server(FDS).
