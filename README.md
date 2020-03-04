@@ -11,6 +11,11 @@ All repositories below should follow this Protocol.
   - [Cj-bc/FDS-Front3D](https://github.com/Cj-bc/FDS-Front3D)
   - [Cj-bc/FDS-controller](https://github.com/Cj-bc/FDS-controller)
 
+## About this repository
+
+- `en`/`ja` directory: Contains documents wrote in English/Japanese
+  - `communication.md`: Define some protocols related to communication
+
 # About versioning
 
 Using [Semantic versioning v2.0.0](https://semver.org/spec/v2.0.0.html).

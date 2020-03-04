@@ -10,6 +10,10 @@
   - [Cj-bc/FDS-Front3D](https://github.com/Cj-bc/FDS-Front3D)
   - [Cj-bc/FDS-controller](https://github.com/Cj-bc/FDS-controller)
 
+## このレポジトリについて
+
+- `en`/`ja`ディレクトリ: それぞれ英語/日本語で書かれたドキュメントが保管されています。
+  - `communication.md`: 通信周りに関する仕様が保管されています。
 
 # バージョニングについて
 
