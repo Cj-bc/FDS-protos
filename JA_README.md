@@ -1,14 +1,14 @@
 # Face-Data-Server プロトコル仕様書
 
-このレポジトリはFace-Data-Server(FDS)の通信用プロトコルを定義しています。
+このレポジトリはFace-Data-Server(FDS)で使用される様々な定義を保管しています。
 もし、FDSを利用したプログラムを制作する場合、このプロトコルに従ってください。
 
 以下のレポジトリはこのプロトコルに準拠しているはずです。
 
-  - [Cj-bc/Face-Data-Server](https://github.com/Cj-bc/Face-data-server)
-  - [Cj-bc/faclig](https://github.com/Cj-bc/faclig)
-  - [Cj-bc/FDS-Front3D](https://github.com/Cj-bc/FDS-Front3D)
-  - [Cj-bc/FDS-controller](https://github.com/Cj-bc/FDS-controller)
+  - [x] [Cj-bc/Face-Data-Server](https://github.com/Cj-bc/Face-data-server)
+  - [x] [Cj-bc/faclig](https://github.com/Cj-bc/faclig)
+  - [ ] [Cj-bc/FDS-Front3D](https://github.com/Cj-bc/FDS-Front3D)
+  - [x] [Cj-bc/FDS-controller](https://github.com/Cj-bc/FDS-controller)
 
 ## このレポジトリについて
 

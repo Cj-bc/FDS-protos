@@ -1,15 +1,15 @@
 # Face-Data-Server Protocol Definition
 
-This repository define Protocol definition for Face-Data-Server(FDS).
+This repository stores Protocol definition for Face-Data-Server(FDS).
 If you want to build any program with FDS(e.g. custom front-end, custom server),
 follow this protocol to communicate with each other.
 
 All repositories below should follow this Protocol.
 
-  - [Cj-bc/Face-Data-Server](https://github.com/Cj-bc/Face-data-server)
-  - [Cj-bc/faclig](https://github.com/Cj-bc/faclig)
-  - [Cj-bc/FDS-Front3D](https://github.com/Cj-bc/FDS-Front3D)
-  - [Cj-bc/FDS-controller](https://github.com/Cj-bc/FDS-controller)
+  - [x] [Cj-bc/Face-Data-Server](https://github.com/Cj-bc/Face-data-server)
+  - [x] [Cj-bc/faclig](https://github.com/Cj-bc/faclig)
+  - [ ] [Cj-bc/FDS-Front3D](https://github.com/Cj-bc/FDS-Front3D)
+  - [x] [Cj-bc/FDS-controller](https://github.com/Cj-bc/FDS-controller)
 
 ## About this repository
 
