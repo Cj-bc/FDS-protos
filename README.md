@@ -1,3 +1,4 @@
+*DEPRECATED*: FDS Protocol is no longer developed. I'll use [Virutal Motion Capture Protocol](https://protocol.vmc.info/) instead
 [日本語.md](JA_README.md)
 
 ---
